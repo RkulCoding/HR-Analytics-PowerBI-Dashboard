@@ -1,5 +1,4 @@
-# HR-Analytics-PowerBI-Dashboard
-HR Analytics Dashboard using Power BI (Attrition Analysis)
+
 # HR Analytics Dashboard – Power BI
 
 ## 📌 Overview
